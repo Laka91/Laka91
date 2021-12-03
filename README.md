@@ -1,4 +1,4 @@
-https://img.shields.io/badge/Bitcoin-000000?style=for-the-badge&logo=bitcoin&logoColor=white
+(https://img.shields.io/badge/Bitcoin-000000?style=for-the-badge&logo=bitcoin&logoColor=white)
 
 ![Profile View Counter](https://komarev.com/ghpvc/?username=laka9)
 
