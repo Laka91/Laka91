@@ -7,6 +7,9 @@
 ![Profile View Counter](https://komarev.com/ghpvc/?username=laka9)
 
 
+![Jokes Card](https://readme-jokes.vercel.app/api?hideBorder&theme=cobalt&qColor=%23944bcc&aColor=%23bbdb51)
+
+
 ![Your Repository's Stats](https://github-readme-stats.vercel.app/api?username=laka9&show_icons=true) ![Your Repository's Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=laka9&theme=blue-green)
 
 
